@@ -1,6 +1,6 @@
 # Miembros
 
-* Nick Fury
+* Nick Fury modificacion
 * Black panther
 * Black Widow
 * Capitán America
